@@ -28,3 +28,5 @@
 - footer.md 추가
 ## 사이드바
 - sidebar.md 추가
+## 사이드킥 추가
+- sidekick.md 추가
